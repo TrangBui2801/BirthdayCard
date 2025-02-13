@@ -37,7 +37,7 @@ h4 {
   /*SHERPA BLUE*/
   position: absolute;
   top: 57%;
-  left: 57%;
+  left: 60%;
   width: 300px;
   height: 400px;
   background: #e0e1dc;
@@ -70,7 +70,7 @@ h4 {
   content: "";
   position: absolute;
   top: 0;
-  right: -5px;
+  right: -7px;
   width: 5px;
   height: 100%;
   background: #92a29c;
