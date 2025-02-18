@@ -31,6 +31,7 @@ h4 {
 .color2 {
   color: #c0392b;
   transform: rotate(-9deg);
+  font-size: 18px;
 
   /*TALL POPPY*/
 }
@@ -136,6 +137,7 @@ h4 {
 
 .text-right {
   text-align: right;
+  margin-right: 20px;
 }
 
 .card-container {
